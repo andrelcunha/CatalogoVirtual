@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 16, 2017, 2:13:15 AM
+    Author     : deko
+*/
+/* Remove the navbar's default rounded borders and increase the bottom margin */ 
+    .navbar {
+      margin-bottom: 10px;
+      border-radius: 0;
+    }
+    
+    /* Remove the jumbotron's default bottom margin */ 
+     .jumbotron {
+      margin-bottom: 0;
+      
+    }
+   
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+      margin-bottom: 0;
+    }
+    
+    .banner_{
+        background-color: steelblue;
+        color: #fff;   
+    }
+    
+    .banner_ h1 {
+        font-size: 2.5em;
+    }
+    
+    .banner_ p {
+        font-size: 1.2em;
+    }
+    
+    .banner_sml{
+        height: 105px;
+    }
+    
+    .banner_big{
+        height: 140px;
+    }
+    
+    .navbar a{
+        font-size:1em;
+    }
+    
+    .logo_thumb{
+        height: 100%;
+        width: 50%;
+    }
+    
+    .titulo{
+        font-size: 14px;
+        color:#666
+    }
+    
+    .preco {
+        font-size: 24px;
+        color: #333;
+    }
